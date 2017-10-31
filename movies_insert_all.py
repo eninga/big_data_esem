@@ -1,4 +1,9 @@
 # -*- coding: utf-8 -*-
+"""
+Created on Tue Oct 31 21:35:31 2017
+
+@author: eric
+"""
 from pymongo import MongoClient
 from bson import json_util
 client = MongoClient("localhost",28000)

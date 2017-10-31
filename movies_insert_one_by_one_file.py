@@ -1,6 +1,10 @@
 #!/usr/bin/env python3.6
 # -*- coding: utf-8 -*-
-# -*- coding: utf-8 -*-
+"""
+Created on Tue Oct 31 22:05:37 2017
+
+@author: eric
+"""
 from pymongo import MongoClient
 from bson import json_util
 import os
